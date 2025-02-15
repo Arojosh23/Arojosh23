@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">🌟 Welcome to My GitHub Profile! 🚀</h1>
 
-<!--
-**Arojosh23/Arojosh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&width=435&lines=Hello%2C+I'm+Ayron+Vas!;Passionate+Developer+%26+Tech+Enthusiast;Always+Learning+%26+Building!"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🎯 **Developer | Problem-Solver | Tech Enthusiast**
+- 💻 Passionate about software development and emerging technologies.  
+- 🔥 Constantly exploring new frameworks, languages, and best practices.  
+- 🎯 Focused on building impactful, scalable, and efficient solutions.  
+- 🤖 Interested in AI, Web Development, and Database Optimization.  
+
+---
+
+## 🛠️ Technologies & Tools Known
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,oracle,mongodb,html,css"/>
+</p>
+
+---
+
+## 📌 What I'm Working On
+- 🚀 Strengthening my expertise in **software development and best practices**.
+- 🔍 Exploring **new technologies** to stay ahead in the tech world.
+- 💡 Building projects that **solve real-world problems**.
+
+---
+
+## 🌍 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/ayron-vas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ayronvas23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">🚀 Thanks for stopping by! Keep innovating! 🚀</p>
+
